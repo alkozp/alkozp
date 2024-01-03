@@ -6,9 +6,9 @@
   
   ![learn WebDEV](https://i.pinimg.com/1200x/92/8f/90/928f90bcd221f78a30f18541a5ca2e7f.jpg)
 
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alkozp&show_icons=true&theme=chartreuse-dark)](https://github.com/alkozp/)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alkozp&show_icons=true&theme=blue-green)](https://github.com/alkozp/)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkozp&langs_count=20&layout=compact)](https://github.com/alkozp/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alkozp&langs_count=20&layout=compact&theme=blue-green)](https://github.com/alkozp/)
 <!--
 **alkozp/alkozp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
